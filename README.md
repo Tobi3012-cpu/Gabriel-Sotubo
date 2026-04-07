@@ -11,9 +11,7 @@ Web developer focused on building clean and functional web applications.
 - C#
 - MongoDB
 
-## 📂 Projects
-- Invoice Web App
-- More projects coming soon...
+
 
 ## 📫 Contact
-- Email: your@email.com
+- Email: gabrielsotubo@gmail.com
